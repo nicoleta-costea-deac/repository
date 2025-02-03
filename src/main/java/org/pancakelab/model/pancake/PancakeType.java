@@ -1,0 +1,10 @@
+package org.pancakelab.model.pancake;
+
+public enum PancakeType {
+
+    DARK_CHOCOLATE,
+    DARK_CHOCOLATE_WHIPPED_CREAM_HAZELNUTS,
+    DARK_CHOCOLATE_WHIPPED_CREAM,
+    MILK_CHOCOLATE_HAZELNUTS,
+    MILK_CHOCOLATE
+}
